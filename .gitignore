@@ -37,3 +37,23 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+
+.Rproj.user
+.Rhistory
+.RData
+.#*
+*~
+\#*#
+*.swp
+.project
+.ipynb_checkpoints
+vignettes/*.html
+/inst/doc/*
+!/inst/doc/*.html
+/doc/
+/docs/
+/data/
+*.rds
+*.Rproj

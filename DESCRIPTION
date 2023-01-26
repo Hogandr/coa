@@ -5,3 +5,8 @@ Title: Add
 Authors@R: c(person("Hagen"))
 Author: Hagen L [aut, cre]
 Maintainer: Hagen
+
+
+Imports: checkmate
+
+Suggests: testthat
