@@ -1,0 +1,7 @@
+Package: coa
+Version: 0.1
+Date: 2023-01-26
+Title: Add
+Authors@R: c(person("Hagen"))
+Author: Hagen L [aut, cre]
+Maintainer: Hagen
