@@ -1,12 +1,11 @@
+Encoding: UTF-8
 Package: coa
-Version: 0.1
+Description: Add
+Version: 0.0.1
+URL: https://github.com/Hogandr/coa
 Date: 2023-01-26
 Title: Add
-Authors@R: c(person("Hagen"))
-Author: Hagen L [aut, cre]
-Maintainer: Hagen
-
-
+Authors@R: c(person("Hagen", "Lamprecht", email = "123@gmail.com", role = c("aut", "cre")))
 Imports: checkmate
-
 Suggests: testthat
+RoxygenNote: 7.1.2
